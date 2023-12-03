@@ -88,7 +88,7 @@ This file contains all the meta information regarding the columns described in t
 
 - [dim customers](#dim-customers)
 
-- [dim products](dim-products)
+- [dim products](#dim-products)
 
 - [dim date](#dim-date)
 
