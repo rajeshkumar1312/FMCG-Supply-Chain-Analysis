@@ -11,7 +11,7 @@
 ***
 ## Table of Content 
 
-- [About Company](#AboutCompany)
+- [About Company](#About-Company)
 - [Problem Statement](#Problem-Statement)
 - [Management request](#Management-request)
 - [Key service metrics](#Key-service-metrics)
@@ -86,21 +86,21 @@
 
 This file contains all the meta information regarding the columns described in the CSV files. we have provided 3 CSV files:
 
-[dim customers](#dim-customers)
+- [dim customers](#dim-customers)
 
-[dim products](dim-products)
+- [dim products](dim-products)
 
-[dim date](#dim-date)
+- [dim date](#dim-date)
 
-[dim targets orders](#dim-targets-orders)
+- [dim targets orders](#dim-targets-orders)
 
-[fact order lines](#fact-order-lines)
+- [fact order lines](#fact-order-lines)
 
-[fact orders aggregate](#fact-orders-aggregate)
+- [fact orders aggregate](#fact-orders-aggregate)
 
 ---------------------------------------------------------------------------------------------
 
-## dim_customers:
+## dim customers
 
 This table contains all the information about customers
 
@@ -112,7 +112,7 @@ This table contains all the information about customers
 
 ---------------------------------------------------------------------------------------------------
 
-## dim_products:
+## dim products
 This table contains all the information about the products
 
 **1. product_name:** It is the name of the product
@@ -123,7 +123,7 @@ This table contains all the information about the products
 
 ---------------------------------------------------------------------------------------------------
 
-## dim_date:
+## dim date
 This table contains the dates at daily, monthly level and week numbers of the year
 
 **1. date:** date at the daily level
